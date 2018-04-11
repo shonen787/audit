@@ -1,0 +1,438 @@
+|Process Name: 	System Idle Process	Process ID: 	0|
+
+|Process Name: 	System	Process ID: 	4|
+
+|Process Name: 	smss.exe	Process ID: 	428|
+
+|Process Name: 	csrss.exe	Process ID: 	608|
+
+|Process Name: 	wininit.exe	Process ID: 	748|
+
+|Process Name: 	csrss.exe	Process ID: 	756|
+
+|Process Name: 	services.exe	Process ID: 	820|
+
+|Process Name: 	lsass.exe	Process ID: 	836|
+
+|Process Name: 	svchost.exe	Process ID: 	948|
+
+|Process Name: 	svchost.exe	Process ID: 	972|
+
+|Process Name: 	fontdrvhost.exe	Process ID: 	996|
+
+|Process Name: 	svchost.exe	Process ID: 	464|
+
+|Process Name: 	svchost.exe	Process ID: 	640|
+
+|Process Name: 	winlogon.exe	Process ID: 	1032|
+
+|Process Name: 	fontdrvhost.exe	Process ID: 	1112|
+
+|Process Name: 	svchost.exe	Process ID: 	1188|
+
+|Process Name: 	svchost.exe	Process ID: 	1212|
+
+|Process Name: 	svchost.exe	Process ID: 	1248|
+
+|Process Name: 	svchost.exe	Process ID: 	1264|
+
+|Process Name: 	dwm.exe	Process ID: 	1360|
+
+|Process Name: 	svchost.exe	Process ID: 	1420|
+
+|Process Name: 	svchost.exe	Process ID: 	1428|
+
+|Process Name: 	svchost.exe	Process ID: 	1436|
+
+|Process Name: 	svchost.exe	Process ID: 	1552|
+
+|Process Name: 	svchost.exe	Process ID: 	1660|
+
+|Process Name: 	svchost.exe	Process ID: 	1816|
+
+|Process Name: 	svchost.exe	Process ID: 	1840|
+
+|Process Name: 	svchost.exe	Process ID: 	1984|
+
+|Process Name: 	svchost.exe	Process ID: 	2004|
+
+|Process Name: 	ibmpmsvc.exe	Process ID: 	2020|
+
+|Process Name: 	LPlatSvc.exe	Process ID: 	2036|
+
+|Process Name: 	svchost.exe	Process ID: 	2088|
+
+|Process Name: 	svchost.exe	Process ID: 	2260|
+
+|Process Name: 	svchost.exe	Process ID: 	2312|
+
+|Process Name: 	svchost.exe	Process ID: 	2320|
+
+|Process Name: 	svchost.exe	Process ID: 	2328|
+
+|Process Name: 	Memory Compression	Process ID: 	2428|
+
+|Process Name: 	svchost.exe	Process ID: 	2444|
+
+|Process Name: 	svchost.exe	Process ID: 	2452|
+
+|Process Name: 	svchost.exe	Process ID: 	2460|
+
+|Process Name: 	igfxCUIService.exe	Process ID: 	2588|
+
+|Process Name: 	svchost.exe	Process ID: 	2628|
+
+|Process Name: 	svchost.exe	Process ID: 	2636|
+
+|Process Name: 	svchost.exe	Process ID: 	2800|
+
+|Process Name: 	svchost.exe	Process ID: 	2852|
+
+|Process Name: 	svchost.exe	Process ID: 	2864|
+
+|Process Name: 	svchost.exe	Process ID: 	2912|
+
+|Process Name: 	svchost.exe	Process ID: 	2980|
+
+|Process Name: 	RtkAudioService64.exe	Process ID: 	3004|
+
+|Process Name: 	svchost.exe	Process ID: 	2668|
+
+|Process Name: 	svchost.exe	Process ID: 	2976|
+
+|Process Name: 	svchost.exe	Process ID: 	3080|
+
+|Process Name: 	svchost.exe	Process ID: 	3120|
+
+|Process Name: 	svchost.exe	Process ID: 	3168|
+
+|Process Name: 	WUDFHost.exe	Process ID: 	3268|
+
+|Process Name: 	svchost.exe	Process ID: 	3556|
+
+|Process Name: 	svchost.exe	Process ID: 	3620|
+
+|Process Name: 	spoolsv.exe	Process ID: 	3688|
+
+|Process Name: 	WmiPrvSE.exe	Process ID: 	3768|
+
+|Process Name: 	AppleMobileDeviceService.exe	Process ID: 	3844|
+
+|Process Name: 	mDNSResponder.exe	Process ID: 	3852|
+
+|Process Name: 	IntelCpHDCPSvc.exe	Process ID: 	3860|
+
+|Process Name: 	svchost.exe	Process ID: 	3868|
+
+|Process Name: 	OfficeClickToRun.exe	Process ID: 	3876|
+
+|Process Name: 	svchost.exe	Process ID: 	3884|
+
+|Process Name: 	svchost.exe	Process ID: 	3892|
+
+|Process Name: 	EvtEng.exe	Process ID: 	3904|
+
+|Process Name: 	ibtsiva.exe	Process ID: 	3920|
+
+|Process Name: 	svchost.exe	Process ID: 	3932|
+
+|Process Name: 	IPROSetMonitor.exe	Process ID: 	3948|
+
+|Process Name: 	Lenovo.Modern.ImController.exe	Process ID: 	3956|
+
+|Process Name: 	PresentationFontCache.exe	Process ID: 	3976|
+
+|Process Name: 	InstantOnSrv.exe	Process ID: 	3992|
+
+|Process Name: 	svchost.exe	Process ID: 	4000|
+
+|Process Name: 	micmute.exe	Process ID: 	4032|
+
+|Process Name: 	NIS.exe	Process ID: 	4076|
+
+|Process Name: 	svchost.exe	Process ID: 	3428|
+
+|Process Name: 	RegSrvc.exe	Process ID: 	3464|
+
+|Process Name: 	ccSvcHst.exe	Process ID: 	4160|
+
+|Process Name: 	SecurityHealthService.exe	Process ID: 	4192|
+
+|Process Name: 	SynTPEnhService.exe	Process ID: 	4236|
+
+|Process Name: 	sgvrfy32.exe	Process ID: 	4248|
+
+|Process Name: 	tphkload.exe	Process ID: 	4288|
+
+|Process Name: 	svchost.exe	Process ID: 	4296|
+
+|Process Name: 	svchost.exe	Process ID: 	4316|
+
+|Process Name: 	vmware-authd.exe	Process ID: 	4356|
+
+|Process Name: 	vmnetdhcp.exe	Process ID: 	4376|
+
+|Process Name: 	vmware-usbarbitrator64.exe	Process ID: 	4384|
+
+|Process Name: 	vmnat.exe	Process ID: 	4400|
+
+|Process Name: 	svchost.exe	Process ID: 	4428|
+
+|Process Name: 	ZeroConfigService.exe	Process ID: 	4448|
+
+|Process Name: 	IntelCpHeciSvc.exe	Process ID: 	5196|
+
+|Process Name: 	svchost.exe	Process ID: 	5496|
+
+|Process Name: 	vmware-hostd.exe	Process ID: 	5720|
+
+|Process Name: 	svchost.exe	Process ID: 	5768|
+
+|Process Name: 	ccSvcHst.exe	Process ID: 	5892|
+
+|Process Name: 	AVAgent.exe	Process ID: 	5900|
+
+|Process Name: 	unsecapp.exe	Process ID: 	6304|
+
+|Process Name: 	ssDVAgent.exe	Process ID: 	6864|
+
+|Process Name: 	svchost.exe	Process ID: 	6000|
+
+|Process Name: 	svchost.exe	Process ID: 	5652|
+
+|Process Name: 	svchost.exe	Process ID: 	8476|
+
+|Process Name: 	svchost.exe	Process ID: 	8700|
+
+|Process Name: 	NIS.exe	Process ID: 	7748|
+
+|Process Name: 	svchost.exe	Process ID: 	2352|
+
+|Process Name: 	svchost.exe	Process ID: 	2660|
+
+|Process Name: 	svchost.exe	Process ID: 	4212|
+
+|Process Name: 	jhi_service.exe	Process ID: 	7360|
+
+|Process Name: 	LMS.exe	Process ID: 	7428|
+
+|Process Name: 	svchost.exe	Process ID: 	1132|
+
+|Process Name: 	SearchIndexer.exe	Process ID: 	1500|
+
+|Process Name: 	RAVBg64.exe	Process ID: 	8804|
+
+|Process Name: 	tpfsm.exe	Process ID: 	2820|
+
+|Process Name: 	tposd.exe	Process ID: 	2544|
+
+|Process Name: 	shtctky.exe	Process ID: 	1224|
+
+|Process Name: 	SynTPEnh.exe	Process ID: 	6612|
+
+|Process Name: 	svchost.exe	Process ID: 	2736|
+
+|Process Name: 	sihost.exe	Process ID: 	3716|
+
+|Process Name: 	svchost.exe	Process ID: 	6040|
+
+|Process Name: 	taskhostw.exe	Process ID: 	1768|
+
+|Process Name: 	svchost.exe	Process ID: 	2336|
+
+|Process Name: 	svchost.exe	Process ID: 	8304|
+
+|Process Name: 	ctfmon.exe	Process ID: 	6080|
+
+|Process Name: 	igfxEM.exe	Process ID: 	5708|
+
+|Process Name: 	SynTPHelper.exe	Process ID: 	4420|
+
+|Process Name: 	explorer.exe	Process ID: 	5640|
+
+|Process Name: 	ShellExperienceHost.exe	Process ID: 	9440|
+
+|Process Name: 	SearchUI.exe	Process ID: 	9576|
+
+|Process Name: 	RuntimeBroker.exe	Process ID: 	9684|
+
+|Process Name: 	RuntimeBroker.exe	Process ID: 	9836|
+
+|Process Name: 	rundll32.exe	Process ID: 	10768|
+
+|Process Name: 	mxcrsc32.exe	Process ID: 	10892|
+
+|Process Name: 	igfxext.exe	Process ID: 	11016|
+
+|Process Name: 	PAUI.exe	Process ID: 	10492|
+
+|Process Name: 	Greenshot.exe	Process ID: 	7788|
+
+|Process Name: 	iTunesHelper.exe	Process ID: 	11248|
+
+|Process Name: 	iPodService.exe	Process ID: 	11544|
+
+|Process Name: 	NIS.exe	Process ID: 	13208|
+
+|Process Name: 	RAVBg64.exe	Process ID: 	13804|
+
+|Process Name: 	RAVCpl64.exe	Process ID: 	14024|
+
+|Process Name: 	dllhost.exe	Process ID: 	12580|
+
+|Process Name: 	svchost.exe	Process ID: 	14988|
+
+|Process Name: 	LockApp.exe	Process ID: 	1280|
+
+|Process Name: 	RuntimeBroker.exe	Process ID: 	13204|
+
+|Process Name: 	ApplicationFrameHost.exe	Process ID: 	14256|
+
+|Process Name: 	RuntimeBroker.exe	Process ID: 	9996|
+
+|Process Name: 	svchost.exe	Process ID: 	1084|
+
+|Process Name: 	svchost.exe	Process ID: 	15624|
+
+|Process Name: 	vmware-tray.exe	Process ID: 	12256|
+
+|Process Name: 	svchost.exe	Process ID: 	16284|
+
+|Process Name: 	svchost.exe	Process ID: 	13900|
+
+|Process Name: 	mspaint.exe	Process ID: 	5740|
+
+|Process Name: 	LPlatSvc.exe	Process ID: 	3492|
+
+|Process Name: 	svchost.exe	Process ID: 	16080|
+
+|Process Name: 	chrome.exe	Process ID: 	9532|
+
+|Process Name: 	chrome.exe	Process ID: 	15108|
+
+|Process Name: 	chrome.exe	Process ID: 	7816|
+
+|Process Name: 	chrome.exe	Process ID: 	12408|
+
+|Process Name: 	chrome.exe	Process ID: 	9084|
+
+|Process Name: 	chrome.exe	Process ID: 	8984|
+
+|Process Name: 	chrome.exe	Process ID: 	15644|
+
+|Process Name: 	lync.exe	Process ID: 	14760|
+
+|Process Name: 	lynchtmlconv.exe	Process ID: 	7324|
+
+|Process Name: 	UcMapi.exe	Process ID: 	6568|
+
+|Process Name: 	SystemSettingsBroker.exe	Process ID: 	13972|
+
+|Process Name: 	svchost.exe	Process ID: 	5664|
+
+|Process Name: 	svchost.exe	Process ID: 	9000|
+
+|Process Name: 	mspaint.exe	Process ID: 	10532|
+
+|Process Name: 	chrome.exe	Process ID: 	14376|
+
+|Process Name: 	chrome.exe	Process ID: 	16328|
+
+|Process Name: 	chrome.exe	Process ID: 	864|
+
+|Process Name: 	chrome.exe	Process ID: 	13880|
+
+|Process Name: 	chrome.exe	Process ID: 	6340|
+
+|Process Name: 	chrome.exe	Process ID: 	11524|
+
+|Process Name: 	chrome.exe	Process ID: 	12232|
+
+|Process Name: 	chrome.exe	Process ID: 	6812|
+
+|Process Name: 	chrome.exe	Process ID: 	10472|
+
+|Process Name: 	LPlatSvc.exe	Process ID: 	8488|
+
+|Process Name: 	svchost.exe	Process ID: 	13732|
+
+|Process Name: 	svchost.exe	Process ID: 	1636|
+
+|Process Name: 	wlanext.exe	Process ID: 	14204|
+
+|Process Name: 	conhost.exe	Process ID: 	5528|
+
+|Process Name: 	SystemSettings.exe	Process ID: 	15912|
+
+|Process Name: 	notepad++.exe	Process ID: 	4184|
+
+|Process Name: 	WINWORD.EXE	Process ID: 	2808|
+
+|Process Name: 	msiexec.exe	Process ID: 	17108|
+
+|Process Name: 	chrome.exe	Process ID: 	1944|
+
+|Process Name: 	msiexec.exe	Process ID: 	17152|
+
+|Process Name: 	msiexec.exe	Process ID: 	15860|
+
+|Process Name: 	rundll32.exe	Process ID: 	14724|
+
+|Process Name: 	TeamViewer_Service.exe	Process ID: 	1468|
+
+|Process Name: 	OUTLOOK.EXE	Process ID: 	8000|
+
+|Process Name: 	iexplore.exe	Process ID: 	17096|
+
+|Process Name: 	iexplore.exe	Process ID: 	11656|
+
+|Process Name: 	svchost.exe	Process ID: 	13876|
+
+|Process Name: 	EXCEL.EXE	Process ID: 	14712|
+
+|Process Name: 	WINWORD.EXE	Process ID: 	14896|
+
+|Process Name: 	prevhost.exe	Process ID: 	5680|
+
+|Process Name: 	chrome.exe	Process ID: 	15688|
+
+|Process Name: 	powershell.exe	Process ID: 	5592|
+
+|Process Name: 	conhost.exe	Process ID: 	16972|
+
+|Process Name: 	WmiPrvSE.exe	Process ID: 	14524|
+
+|Process Name: 	chrome.exe	Process ID: 	14952|
+
+|Process Name: 	chrome.exe	Process ID: 	9956|
+
+|Process Name: 	Lenovo.Modern.ImController.PluginHost.Device.exe	Process ID: 	692|
+
+|Process Name: 	LPlatSvc.exe	Process ID: 	7188|
+
+|Process Name: 	chrome.exe	Process ID: 	16768|
+
+|Process Name: 	chrome.exe	Process ID: 	9016|
+
+|Process Name: 	chrome.exe	Process ID: 	17400|
+
+|Process Name: 	chrome.exe	Process ID: 	11728|
+
+|Process Name: 	smartscreen.exe	Process ID: 	13656|
+
+|Process Name: 	WinSCP.exe	Process ID: 	9324|
+
+|Process Name: 	chrome.exe	Process ID: 	14620|
+
+|Process Name: 	audiodg.exe	Process ID: 	13496|
+
+|Process Name: 	explorer.exe	Process ID: 	13844|
+
+|Process Name: 	svchost.exe	Process ID: 	10368|
+
+|Process Name: 	chrome.exe	Process ID: 	10604|
+
+|Process Name: 	python.exe	Process ID: 	12664|
+
+|Process Name: 	WmiPrvSE.exe	Process ID: 	14924|
+

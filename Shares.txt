@@ -1,0 +1,12 @@
+Share Name: ADMIN$
+	 Path: C:\WINDOWS
+Share Name: C$
+	 Path: C:\
+Share Name: IPC$
+	 Path: 
+Share Name: print$
+	 Path: C:\WINDOWS\system32\spool\drivers
+Share Name: SHARP UD2 PCL6
+	 Path: SHARP UD2 PCL6,LocalsplOnly
+Share Name: Z$
+	 Path: Z:\
